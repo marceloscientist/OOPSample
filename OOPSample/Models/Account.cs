@@ -1,9 +1,9 @@
 ﻿namespace OOPSample.Models
 {
-    public abstract class Conta
+    public abstract class Account
     {
         protected double balance;
-        public abstract void toCredit();
+        public abstract void toCredit(double value);
 
         public void showBalance()
         {
