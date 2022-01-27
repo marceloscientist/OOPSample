@@ -1,0 +1,16 @@
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.csproj.AssemblyReference.cache
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.AssemblyInfoInputs.cache
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.AssemblyInfo.cs
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.exe
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.deps.json
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.runtimeconfig.json
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.runtimeconfig.dev.json
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.dll
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\ref\OOPSample.dll
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\bin\Debug\net5.0\OOPSample.pdb
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.dll
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\ref\OOPSample.dll
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.pdb
+C:\Users\Marcelo\RiderProjects\OOPSample\OOPSample\obj\Debug\net5.0\OOPSample.genruntimeconfig.cache
