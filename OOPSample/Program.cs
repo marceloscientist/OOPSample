@@ -1,4 +1,5 @@
 ﻿using System;
+using OOPSample.Helpers;
 using OOPSample.Models;
 
 namespace OOPSample
@@ -7,8 +8,9 @@ namespace OOPSample
     {
         static void Main(string[] args)
         {
-            Person marcelo = new Teacher("Marcelo", 38);
-            Console.WriteLine(marcelo.ToString());
+            var pathing = "C:\\FilesOnCSharp";
+            HFile helping = new HFile();
+            helping.DirectoryList(pathing);
         }
     }
 }
